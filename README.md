@@ -7,11 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 My Project [Family-Mart](https://659634870c4ab22cecb82b19--nimble-kringle-037759.netlify.app)
+- 🔭 [Gmail](shivankjh02@gmail.com)
 
-- 👯 My Project [DataDock](https://datadock.netlify.app)
-
-- 🤝 My-Project [TrendsSpot](https://shopwithshivank.netlify.app)
+- 📫 Connect With Me **Shivankjh02@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
