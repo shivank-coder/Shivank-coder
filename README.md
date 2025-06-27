@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivank Singh</h1>
-<h3 align="center">🚀 Associate Software Engineer | MERN & Golang Enthusiast | Competitive Coder | Passionate Problem Solver</h3>
+<h3 align="center">🚀 Software Engineer | MERN & Golang Enthusiast | Competitive Coder | Passionate Problem Solver</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shivank-coder&label=Profile%20views&color=brightgreen&style=flat-square" alt="shivank-coder" />
@@ -14,11 +14,30 @@
 ---
 
 ### 🔥 About Me
-🎓 I'm a B.Tech CSE graduate from **Bundelkhand Institute of Engineering and Technology, Jhansi**  
-💼 Currently working as an **Associate Software Engineer at Digital Cortex**  
-💡 I love building scalable APIs, beautiful UIs, and automating things  
-⚡ I'm a huge fan of **Golang, React, Docker, and Clean Code Architecture**  
-🎯 Always exploring new tech, and solving real-world problems through code  
+
+🎓 B.Tech CSE graduate from **Bundelkhand Institute of Engineering and Technology, Jhansi**  
+💼 **Software Engineer at Digital Cortex** | Ex-**SDE Intern @ HashedIn by Deloitte**  
+💡 Passionate about designing clean APIs, building full-stack apps, and solving real-world problems  
+🛠️ Skilled in **Golang, MERN, Docker**, scalable systems, and clean architecture  
+🚀 Always eager to explore the latest in tech, cloud, and system design  
+
+---
+
+### 💼 Experience
+
+**🔹 Digital Cortex** — *Associate Software Engineer*  
+`Dec 2024 – Present | Bengaluru, India`  
+- 🔧 Developed 50+ scalable REST APIs in **Golang (Gin)** for subscriptions, digital assets, payment & search  
+- 🔐 Built JWT-secured middleware, enhancing route protection and data integrity  
+- 💳 Integrated dynamic payment workflows for real-time billing, transaction processing & history  
+- ⚙️ Boosted system efficiency using Golang **WaitGroups**, cutting execution time by 10%
+
+**🔹 HashedIn by Deloitte** — *SDE Intern*  
+`Oct 2024 – Dec 2024 | Bengaluru, India`  
+- 🧠 Built **5+ full-stack web projects** using **React, Node, Java, Python**  
+- 🧾 Created an Expense Tracker & a PDF Extractor using LLMs with 95% accuracy  
+- 🐾 Developed “PetCare” – a location-based app for pet centers within 1–5 km radius  
+- 🐳 Dockerized PostgreSQL-backed apps for seamless and scalable deployments
 
 ---
 
@@ -45,18 +64,20 @@
 ---
 
 ### 🚀 My Projects
+
 - **🛒 Family-Mart** – MERN e-commerce app with Stripe, JWT auth, and blazing-fast filters  
 - **📂 DataDock** – Secure document-sharing app with real-time updates and download links  
 - **🐾 PetCare** – React app to locate nearby pet care centers within a 5 km radius  
-- **📄 PDF Extractor** – Python project using LLMs to extract answers with 95% accuracy  
+- **📄 PDF Extractor** – Python + LLM project for accurate answer extraction from PDFs  
 
 ---
 
 ### 🏆 Achievements
+
 - 🥇 **1st Place**, CODE 1.0 coding competition with Coding Ninjas  
-- 🔥 **Top 10%** global coder on LeetCode  
-- 💯 **1225 Rank** in GFG Codathon 9.0 (20,000+ participants)  
-- ⚔️ **525 Rank** in LeetCode Weekly Contest  
+- 🔥 Ranked among the **Top 10%** global coders on **LeetCode**  
+- 🥈 **1225th Rank**, GFG Codathon 9.0 (20,000+ participants)  
+- ⚔️ **525th Rank**, LeetCode Weekly Contest  
 
 ---
 
@@ -92,4 +113,3 @@
 ---
 
 ⭐ If you like my work, consider giving a ⭐ to [my repositories](https://github.com/shivank-coder)!
-
