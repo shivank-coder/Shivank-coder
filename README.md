@@ -25,7 +25,7 @@
 
 ### 💼 Experience
 
-**🔹 Digital Cortex** — *Associate Software Engineer*  
+**🔹 Digital Cortex** — *Software Engineer*  
 `Dec 2024 – Present | Bengaluru, India`  
 - 🔧 Developed 50+ scalable REST APIs in **Golang (Gin)** for subscriptions, digital assets, payment & search  
 - 🔐 Built JWT-secured middleware, enhancing route protection and data integrity  
